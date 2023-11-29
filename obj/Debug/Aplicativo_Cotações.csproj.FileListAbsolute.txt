@@ -1,0 +1,14 @@
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\bin\Debug\Aplicativo_Cotações.exe.config
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\bin\Debug\Aplicativo_Cotações.exe
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\bin\Debug\Aplicativo_Cotações.pdb
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\obj\Debug\Aplicativo_Cotações.csproj.AssemblyReference.cache
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\obj\Debug\Aplicativo_Cotações.csproj.SuggestedBindingRedirects.cache
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\obj\Debug\Aplicativo_Cotações.Properties.Resources.resources
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\obj\Debug\Aplicativo_Cotações.csproj.GenerateResource.cache
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\obj\Debug\Aplicativo_Cotações.csproj.CoreCompileInputs.cache
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\obj\Debug\Aplicativo_Cotações.exe
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\obj\Debug\Aplicativo_Cotações.pdb
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\bin\Debug\Newtonsoft.Json.dll
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\bin\Debug\Newtonsoft.Json.xml
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\obj\Debug\Aplicativo_Cotações.csproj.CopyComplete
+D:\ProjetosemCS\ProjetoCS\Aplicativo_Cotações\obj\Debug\Aplicativo_Cotações.F_Principal.resources
